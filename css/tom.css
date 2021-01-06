@@ -1,0 +1,84 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+}
+#cat{
+	width: 100%;
+	height: 100%;
+}
+img{
+	position: absolute;
+}
+#cymbal{
+	left: 5%;
+	bottom: 40%;
+}
+#drink{
+	left: 5%;
+	bottom: 30%;
+}
+#eat{
+	left: 5%;
+	bottom: 20%;
+}
+#fart{
+	right: 5%;
+	bottom: 40%;
+}
+#pie{
+	right: 5%;
+	bottom: 30%;
+}
+#scratch{
+	right: 5%;
+	bottom: 20%;
+}
+/* 五个身体点击区域块 */
+#knockout{
+	width: 20%;
+	height: 6%;
+	/* background: green; */
+	position: absolute;
+	left: 40%;
+	top: 18%;
+}
+#angry{
+	width: 20%;
+	height: 6%;
+	/* background: green; */
+	position: absolute;
+	left: 40%;
+	top: 32%;
+}
+#stomach{
+	width: 21%;
+	height: 14%;
+	/* background: green; */
+	position: absolute;
+	left: 40%;
+	top: 71%;
+}
+
+#footLeft{
+	width: 10%;
+	height: 5%;
+	/* background: green; */
+	position: absolute;
+	left: 35%;
+	bottom: 4%;
+}
+
+#footRight{
+	width: 10%;
+	height: 5%;
+	/* background: green; */
+	position: absolute;
+	right: 37%;
+	bottom: 4%;
+}
+
